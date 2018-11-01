@@ -1,0 +1,151 @@
+2018-11-01 10:19:28,354[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:19:38,003[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:19:52,249[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:28:37,888[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:39:43,149[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:47:49,868[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 10:48:38,792[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:12:00,138[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:12:55,611[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:13:49,216[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:17:42,129[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:17:47,989[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:17:48,136[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:17:48,370[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:17:59,873[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:18:00,864[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:18:01,061[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:18:43,883[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:21:21,082[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:23:25,297[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:25:01,210[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:25:47,866[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:26:32,078[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:26:55,305[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:27:43,896[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:28:08,826[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:28:35,724[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:28:51,975[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:29:50,961[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:30:53,465[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:31:59,762[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:32:45,279[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:33:49,543[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:34:49,657[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:35:24,036[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:38:01,469[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:47:07,309[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:47:38,681[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:48:22,266[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:49:15,200[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:49:47,793[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:51:31,747[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:52:16,300[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:53:22,354[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:54:19,457[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:54:58,138[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:55:34,714[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:57:26,782[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:57:54,982[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 11:58:34,808[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:00:04,907[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:00:46,123[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:03:47,569[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:04:26,912[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:05:14,755[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:20:12,269[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:20:16,166[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:29:46,678[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:29:49,179[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:31:23,546[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 12:31:25,863[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 14:21:12,605[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 14:21:18,514[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 14:32:19,496[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 14:32:27,642[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 14:43:05,483[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 14:43:05,511[yyyy-mm-dd HH-MM-SS] INFO  button was clicked
+2018-11-01 15:00:52,354[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:01:05,716[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:03:51,772[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:04:01,710[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:06:59,643[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:07:05,547[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:08:42,746[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:12:26,231[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:15:08,115[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:17:05,516[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:17:08,500[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:18:54,805[yyyy-mm-dd HH-MM-SS] INFO  Login Successfully
+2018-11-01 15:18:54,824[yyyy-mm-dd HH-MM-SS] INFO  button was clicked
+2018-11-01 15:21:43,329[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:21:43,337[yyyy-mm-dd HH-MM-SS] INFO  button was clicked
+2018-11-01 15:33:07,678[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:41:54,063[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:45:33,953[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:45:34,748[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 15:47:14,838[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:47:40,968[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:48:40,404[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:48:41,506[yyyy-mm-dd HH-MM-SS] INFO  1
+2018-11-01 15:49:07,464[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:49:08,314[yyyy-mm-dd HH-MM-SS] INFO  1
+2018-11-01 15:49:43,744[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:49:44,490[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 15:54:38,595[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:55:10,952[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:57:01,021[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:57:09,201[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 15:59:13,281[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:07:39,726[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:07:40,408[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:09:55,020[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:10:33,461[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:10:34,296[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:11:58,220[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:11:58,913[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:12:27,979[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:12:28,659[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:12:50,615[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:12:51,296[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:17:58,599[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:17:59,221[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:18:54,344[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:18:54,989[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:21:23,689[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:21:24,337[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:26:18,539[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:26:19,152[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:27:13,785[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:27:14,433[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:28:26,183[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:28:26,867[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:36:04,833[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:36:05,468[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:37:02,523[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:37:03,183[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:37:05,885[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:37:05,891[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:37:40,002[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:37:40,661[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:41:12,648[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:41:13,319[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:42:40,658[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:42:48,292[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:42:48,942[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:46:50,931[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:46:51,619[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:46:54,246[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:46:54,252[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:47:27,098[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:47:27,739[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:48:06,401[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:48:07,064[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:48:27,374[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:48:28,030[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=1, mobileNo=1234567890, cname=pooja, caddress=vadgaonsheri, email=pooja@gmail.com, userId=pooja, password=pooja]
+2018-11-01 16:49:17,558[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:49:17,568[yyyy-mm-dd HH-MM-SS] INFO  Customer [cid=2, mobileNo=2737389383, cname=shraddha, caddress=dhanori, email=shraddha@gmail.com, userId=shraddha, password=shraddha]
+2018-11-01 16:52:09,841[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 16:52:09,849[yyyy-mm-dd HH-MM-SS] INFO  your orders are ready
+2018-11-01 17:05:07,288[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
+2018-11-01 17:08:35,335[yyyy-mm-dd HH-MM-SS] INFO   widget selectedby Mylistener
