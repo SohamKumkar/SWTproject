@@ -71,12 +71,7 @@ public class LoginShell extends Shell {
 		password.setEchoChar('*');
 		password.setTextLimit(30);
 		
-		Label label3=new Label(shell, SWT.NULL);
-		label3.setText("User Type");
-
-		Combo combo1 = new Combo(shell, SWT.V_SCROLL);
-		combo1.add("Admin");
-		combo1.add("Customer");
+		
 		
 		Button button=new Button(shell,SWT.PUSH);
 		button.setText("Login");
@@ -118,22 +113,127 @@ public class LoginShell extends Shell {
 			@Override
 			public void widgetSelected(SelectionEvent e)
 			{
-				
+				e.doit= true;
+				if((username.getText()).equals((password.getText())))
 				{
-					
+				
+					Text text9 = new Text(shell, SWT.NONE);
+					text9.setBounds(0, 310, 1000, 30);
+					text9.setText("You are logged in successfully");
 					logger.info("button was clicked");
 				
 				}
+				return;
+			}
+		});
+		Button button1=new Button(shell,SWT.PUSH);
+		button1.setText("Register");
+//		class MySelectionListener1 implements SelectionListener
+//		{
+//			
+//			@Override
+//			public void widgetSelected(SelectionEvent e)
+//			{
+//				logger.info("Login Successfully");
+//			}
+//			@Override
+//			public void widgetDefaultSelected(SelectionEvent e)
+//			{
+//				
+//			}
+//		}
+		
+		final MySelectionListener selObject1 = new MySelectionListener();
+		button1.addSelectionListener(selObject1);
+		
+		button1.addSelectionListener(new SelectionListener() {
+			
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				// TODO Auto-generated method stub
 				
+			}
+			
+			@Override
+			public void widgetDefaultSelected(SelectionEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+		});	
+		
+		button1.addSelectionListener(new SelectionAdapter() {
+			
+			@Override
+			public void widgetSelected(SelectionEvent e)
+			{
+				Label label3=new Label(shell, SWT.NULL);
+				label3.setText("Please Fill The details");
+				label3.setBounds(0, 120, 200, 30);
+				
+				Label label4=new Label(shell, SWT.NULL);
+				label4.setText("Name:");
+				label4.setBounds(0, 160, 40, 30);
+					Text text = new Text(shell, SWT.BORDER);
+					text.setBounds(100, 160, 100, 20);
+					text.setText("");
+					
+					Label label5=new Label(shell, SWT.NULL);
+					label5.setText("Address:");
+					label5.setBounds(0, 200, 50, 30);	
+					Text text1 = new Text(shell, SWT.BORDER);
+					text1.setBounds(100, 200, 100, 20);
+					text1.setText("");
+					Label label6=new Label(shell, SWT.NULL);
+					label6.setText("Mobile No:");
+					label6.setBounds(0, 240, 60, 30);	
+					Text text2 = new Text(shell, SWT.BORDER);
+					text2.setBounds(100, 240, 100, 20);
+					text2.setText("");
+					Label label7=new Label(shell, SWT.NULL);
+					label7.setText("Email ID:");
+					label7.setBounds(0, 280, 60, 30);	
+					Text text3 = new Text(shell, SWT.BORDER);
+					text3.setBounds(100, 280, 100, 20);
+					text3.setText("");
+					//logger.info("button was clicked")
+			}
+		});
+	
+		Button button2=new Button(shell,SWT.PUSH);
+		button2.setText("Submit Your Details");
+		button2.setBounds(0, 280, 150, 30);
+		final MySelectionListener selObject2 = new MySelectionListener();
+		button2.addSelectionListener(selObject2);
+		
+		button2.addSelectionListener(new SelectionListener() {
+			
+			@Override
+			public void widgetSelected(SelectionEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+			
+			@Override
+			public void widgetDefaultSelected(SelectionEvent e) {
+				// TODO Auto-generated method stub
+				
+			}
+		});	
+		
+		button2.addSelectionListener(new SelectionAdapter() {
+			
+			@Override
+			public void widgetSelected(SelectionEvent e)
+			{
+				
+				
+					Text text9 = new Text(shell, SWT.NONE);
+					text9.setBounds(0, 350, 1000, 30);
+					text9.setText("Your Account is created successfully");
+					
 			}
 		});
 		
-	
-	
-		
-		
-		Button button1=new Button(shell,SWT.PUSH);
-		button1.setText("Register");
 		
 		
 		
